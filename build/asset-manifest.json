@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/johnnycarpio/react-portfolio/static/css/main.1f70f298.css",
+    "main.js": "/johnnycarpio/react-portfolio/static/js/main.896eb81b.js",
+    "index.html": "/johnnycarpio/react-portfolio/index.html",
+    "main.1f70f298.css.map": "/johnnycarpio/react-portfolio/static/css/main.1f70f298.css.map",
+    "main.896eb81b.js.map": "/johnnycarpio/react-portfolio/static/js/main.896eb81b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f70f298.css",
+    "static/js/main.896eb81b.js"
+  ]
+}
